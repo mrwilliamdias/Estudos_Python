@@ -1,0 +1,5 @@
+print('Informe sua data de aniversário:')
+dia=input('Dia: ')
+mes=input('Mês: ')
+ano=input('Ano: ')
+print('Você nasceu dia',dia,'de',mes,'em',ano)
