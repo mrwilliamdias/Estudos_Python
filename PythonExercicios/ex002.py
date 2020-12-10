@@ -1,2 +1,2 @@
-nome = input('Qual é o seu nome? ')
-print('Prazer em te conhecer', nome)
+nome = input('Digite o seu nome: ')
+print('Prazer em te conhecer, {}!'.format(nome))
